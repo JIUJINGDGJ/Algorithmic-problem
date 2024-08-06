@@ -1,0 +1,28 @@
+#define  _CRT_SECURE_NO_WARNINGS
+#pragma warning(disable:6031)
+#include<bits/stdc++.h>
+#include<unordered_map>
+
+using namespace std;
+class Solution {
+public:
+    int fib(int n) {
+        vector<int>ans(40, 0);
+        ans[0] = 0;
+        ans[1] = 1;
+        for (int i = 2; i <= n; i++)
+        {
+            ans[i] = ans[i - 1] + ans[i - 2];
+        }
+        return ans[n];
+
+    }
+};
+signed main()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+
+    return 0;
+}
