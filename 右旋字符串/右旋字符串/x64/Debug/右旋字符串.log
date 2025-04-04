@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\练习题\右旋字符串\右旋字符串\main.cpp(27,26): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\练习题\右旋字符串\右旋字符串\main.cpp(29,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  右旋字符串.vcxproj -> E:\练习题\右旋字符串\x64\Debug\右旋字符串.exe

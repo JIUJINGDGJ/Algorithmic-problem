@@ -1,0 +1,20 @@
+﻿  有序分数.cpp
+E:\练习题\有序分数\有序分数\有序分数.cpp(8,20): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\C+\VC\Tools\MSVC\14.33.31629\include\utility(190,54): warning C4244: “初始化”: 从“__int64”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=float
+          ]
+E:\练习题\有序分数\有序分数\有序分数.cpp(36): message : 查看对正在编译的函数 模板 实例化“std::pair<__int64,float>::pair<__int64&,__int64&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=__int64 &,
+              _Other2=__int64 &
+          ]
+E:\练习题\有序分数\有序分数\有序分数.cpp(36): message : 查看对正在编译的函数 模板 实例化“std::pair<__int64,float>::pair<__int64&,__int64&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=__int64 &,
+              _Other2=__int64 &
+          ]
+  有序分数.vcxproj -> E:\练习题\有序分数\x64\Debug\有序分数.exe
