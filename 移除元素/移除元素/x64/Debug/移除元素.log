@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\练习题\移除元素\移除元素\main.cpp(8,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  移除元素.vcxproj -> E:\练习题\移除元素\x64\Debug\移除元素.exe
