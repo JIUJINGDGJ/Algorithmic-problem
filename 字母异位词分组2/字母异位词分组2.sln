@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字母异位词分组2", "字母异位词分组2\字母异位词分组2.vcxproj", "{79AF2B36-6B23-4232-802B-3E2441A77C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79AF2B36-6B23-4232-802B-3E2441A77C48}.Debug|x64.ActiveCfg = Debug|x64
+		{79AF2B36-6B23-4232-802B-3E2441A77C48}.Debug|x64.Build.0 = Debug|x64
+		{79AF2B36-6B23-4232-802B-3E2441A77C48}.Debug|x86.ActiveCfg = Debug|Win32
+		{79AF2B36-6B23-4232-802B-3E2441A77C48}.Debug|x86.Build.0 = Debug|Win32
+		{79AF2B36-6B23-4232-802B-3E2441A77C48}.Release|x64.ActiveCfg = Release|x64
+		{79AF2B36-6B23-4232-802B-3E2441A77C48}.Release|x64.Build.0 = Release|x64
+		{79AF2B36-6B23-4232-802B-3E2441A77C48}.Release|x86.ActiveCfg = Release|Win32
+		{79AF2B36-6B23-4232-802B-3E2441A77C48}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5212A954-CFBB-4F14-9D76-107F00874798}
+	EndGlobalSection
+EndGlobal
